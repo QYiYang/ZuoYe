@@ -1,0 +1,10 @@
+a=10
+b=5
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+print("c:",c)
+print("d:",d)
+print("e:",e)
+print("f:",f)
