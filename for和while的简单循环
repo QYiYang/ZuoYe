@@ -1,0 +1,6 @@
+for i in range(1, 6):
+    print("依次输出:", i)
+count = 0
+while count < 5:
+    print("Count is:", count)
+    count += 1
