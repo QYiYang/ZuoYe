@@ -1,0 +1,15 @@
+list = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+first_element=list[0] 
+last_element=list[-1]  
+middle_element=list[4]  
+
+first_three = my_list[:3] 
+last_three = my_list[-3:]  
+middle_slice = my_list[3:7]  
+
+print("第一个元素:", first_element)
+print("最后一个元素:", last_element)
+print("中间的元素:", middle_element)
+print("前三个元素:", first_three)
+print("最后三个元素:", last_three)
+print("第四到第七个元素:", middle_slice)
