@@ -1,0 +1,8 @@
+# 获取用户输入的数字
+number = int(input("请输入一个整数: "))
+
+# 判断奇偶
+if number % 2 == 0:
+    print(f"{number} 是偶数")
+else:
+    print(f"{number} 是奇数")
