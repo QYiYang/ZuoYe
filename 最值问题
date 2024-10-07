@@ -1,0 +1,12 @@
+# 定义一个数字列表
+numbers = [3, 5, 7, 2, 8, 10, 22, 12]
+
+# 计算最大值、最小值和平均值
+max_value = max(numbers)
+min_value = min(numbers)
+average = sum(numbers) / len(numbers)
+
+# 输出结果
+print(f"列表中的最大值是: {max_value}")
+print(f"列表中的最小值是: {min_value}")
+print(f"列表的平均值是: {average}")
